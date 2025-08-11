@@ -23,5 +23,5 @@ This UI displays a balance and provides **Deposit** and **Withdraw** buttons for
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-MIT License link: [MIT License](https://github.com/AaryanGill/Nimbus-Exp--1-/blob/a7329bb7b417f8544e1be213df6d508bef9e5ade/MIT%20License)
+MIT License link: [MIT License](https://github.com/AaryanGill/Nimbus-Exp--2/blob/1a584b63af76eec05063b98235bc1be142ddbc6f/MIT%20License)
 
